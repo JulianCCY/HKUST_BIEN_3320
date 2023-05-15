@@ -1,3 +1,1 @@
-# HKUST_BIEN_3320
-
-hi
+# HKUST BIEN 3320 Data Science for Biology and Medicine Project (Correlation between Risk Factors and Coronary Heart Disease)
